@@ -1,6 +1,8 @@
-[
-  {
-    "From": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP_C",
-    "To": "/Game/Mods/ShadsCritterReworks/Content/Fasola/Fasola_Character_BP_Shad.Fasola_Character_BP_Shad_C"
-  }
-]
+{
+  "dinoMappings": [
+    {
+      "fromClass": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP_C",
+      "toClass": "/Game/Mods/ShadsCritterReworks/Content/Fasola/Fasola_Character_BP_Shad.Fasola_Character_BP_Shad_C"
+    }
+  ]
+}
