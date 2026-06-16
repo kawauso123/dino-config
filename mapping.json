@@ -1,8 +1,8 @@
 {
   "dinoMappings": [
     {
-      "fromClass": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP_C",
-      "toClass": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP_Aberrant.Fasola_Character_BP_Aberrant_C"
+      "fromClass": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP",
+      "toClass": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP_Aberrant.Fasola_Character_BP_Aberrant"
     }
   ]
 }
